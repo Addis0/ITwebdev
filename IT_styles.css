@@ -1,0 +1,139 @@
+
+
+.navbar {
+  background-color: #ecfbfc;
+}
+
+.nav-item {
+  font-size: 1.6em;
+  padding: 20px;
+}
+
+.logoPic {
+  height: 100px;
+  width: 100px;
+}
+
+.slideshowpic {
+  height: 750px;
+  width: 100%;
+}
+.social
+{
+width:60px;
+height:60px;
+border:0;
+padding: 15px;
+
+}
+
+.row {
+
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px
+}
+
+.boxtwo {
+  background-color: #e7f0c3;
+  height: 750px;
+  width: 100%;
+}
+
+#Services {
+  padding: 12% 15%;
+  background-color: #ffffff;
+}
+
+h1 {
+  font-size: 2.625rem;
+  font-family: 'Sacramento';
+  text-align: center;
+  margin-bottom: 100px;
+  color: black;
+}
+
+.chooseUs {
+  font-size: 2.625rem;
+  font-family: 'Sacramento';
+  text-align: center;
+  width: 110ox
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: black;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 4%;
+  width: auto;
+}
+
+p {
+  color: #8f8f8f;
+  text-align: center;
+}
+
+.pic {
+  width: 100px;
+  height: 100px;
+  border: 0;
+  border-radius: 46%;
+  padding-bottom: 20px;
+}
+
+.box-four {
+  background-color: #ecfcff;
+  height: 650px;
+  width: 100%;
+}
+
+.mission {
+  padding: 12% 15%;
+}
+
+#fotters {
+  margin-top: 50px;
+  margin-bottom: 15px;
+  color: white;
+}
+
+#pattent {
+  padding: 0px;
+  font-size: 20px;
+}
+
+.card-one {
+  margin-left: 100px;
+}
+.box-five
+{
+
+  background-color:#222831;
+  height: 655px;
+  width: 100%;
+
+  margin-bottom: 0px;
+  font-size: 1.8rem;
+  margin-top:25px;
+  padding: 55px;
+  text-align: center;
+
+
+}
+
+
+.box-six {
+  background-color: #3282b8;
+  height: 350px;
+  width: 100%;
+}
+
+.box-seven {
+  /* background-color:#ecfcff; */
+  height: 700px;
+  width: 100%;
+
+}
